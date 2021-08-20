@@ -11,17 +11,17 @@ Para executar o projeto é necessário:
 </ul>
 <h2>Funcionalidades</h2>
 <ul>
-    <li>CRUD de produtos</li>
-    <li>Cadastro de até três imagens por produto</li>
-    <li>Histórico das operações realizadas</li>
+    <li align="justify">CRUD de produtos</li>
+    <li align="justify">Cadastro de até três imagens por produto</li>
+    <li align="justify">Histórico das operações realizadas</li>
 </ul>
 <h2>Desenvolvimento</h2>
-<p>Para iniciar o desenvolvimento é necessário clonar o projeto do GitHub em um diretório de sua preferência</p>
+<p align="justify">Para iniciar o desenvolvimento é necessário clonar o projeto do GitHub em um diretório de sua preferência</p>
 Abra o terminal dentro do seu diretório e cole o seguinte comando: 
 <br/>
 <b>git clone https://github.com/JesusAdson/desafio_tecnico.git</b>
 
-<p>Abra em seu terminal o diretório onde se localiza o projeto já clonado e insira o seguinte comando:</p>
+<p align="justify">Abra em seu terminal o diretório onde se localiza o projeto já clonado e insira o seguinte comando:</p>
 <b>php artisan serve</b> para iniciar o servidor local
 
 <h2>Documentação</h2>
