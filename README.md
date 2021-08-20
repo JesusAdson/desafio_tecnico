@@ -17,6 +17,12 @@ Para executar o projeto é necessário:
 </ul>
 <h2>Desenvolvimento</h2>
 <p>Para iniciar o desenvolvimento é necessário clonar o projeto do GitHub em um diretório de sua preferência</p>
-Já no seu diretório cole o seguinte comando: 
+Abra o terminal dentro do seu diretório e cole o seguinte comando: 
 <br/>
-git clone https://github.com/JesusAdson/desafio_tecnico.git
+<b>git clone https://github.com/JesusAdson/desafio_tecnico.git</b>
+
+<p>Abra em seu terminal o diretório onde se localiza o projeto já clonado e insira o seguinte comando:</p>
+<b>php artisan serve</b> para iniciar o servidor local
+
+<h2>Documentação</h2>
+<a href="https://documenter.getpostman.com/view/16903033/TzzDHZex#intro">Documentation</a>
