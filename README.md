@@ -25,4 +25,4 @@ Abra o terminal dentro do seu diretório e cole o seguinte comando:
 <b>php artisan serve</b> para iniciar o servidor local
 
 <h2>Documentação</h2>
-<a href="https://documenter.getpostman.com/view/16903033/TzzDHZex#intro">Documentation</a>
+<a href="https://documenter.getpostman.com/view/16903033/TzzDHZex#intro" target="_blank">Documentation</a>
